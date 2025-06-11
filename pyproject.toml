@@ -1,7 +1,7 @@
 [project]
-name = "astr-480-tables"
+name = "astr-480-finalproject"
 version = "0.1.0"
-description = "Assignment 3: tabular data and data visualisation"
+description = "Final Project"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
